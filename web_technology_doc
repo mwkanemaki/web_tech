@@ -4,7 +4,16 @@
 
 2014  W#C  HTML5.0
 
+/////////////////////////////////
+RFC 1738
+Uniform Resource Locators (URL)
 
+RFC 3986
+Uniform Resource Identifier (URI): Generic Syntax
+
+
+
+///////////////////////////////////
 WebSocket
 RFC 6455
 
